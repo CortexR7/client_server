@@ -1,4 +1,4 @@
-# JBN **JAVA BINARY NETWORK**
+# JBN ****J**AVA **B**INARY **N**ETWORK**
 ## Description
 - This is a client/server based application written in java that has a custom protocol to transafer any data from **A** to **B** while the amount of data stays irrelevant.
 - This is actually more a library than an application. It is advised to use the Server and Client classes to build the application one is aiming for.
